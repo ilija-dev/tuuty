@@ -1,0 +1,60 @@
+[
+    {
+        "image": "/images/person-1.png",
+        "name": "Logan D.",
+        "level": "Professional Tutor",
+        "video": "https://www.youtube.com/embed/tZ3ndrKQXN8",
+        "intro": "Need help finding the right teacher for you? Tell us your learning preferences and I’ll recommend the best possible methods to meet your needs.",
+        "availability": "27/10/2022 at 09:30"
+    },
+    {
+        "image": "/images/person-2.png",
+        "name": "Lisette A.",
+        "level": "Beginner",
+        "video": "https://www.youtube.com/embed/iIfbJz9ethQ",
+        "intro": "Need help finding the right teacher for you? Tell us your learning preferences and I’ll recommend the best possible methods to meet your needs."
+    },
+    {
+        "image": "/images/person-3.png",
+        "name": "Lisa K.",
+        "level": "Beginner",
+        "video": "https://www.youtube.com/embed/ZZzqBh9LOTs",
+        "intro": "Need help finding the right teacher for you? Tell us your learning preferences and I’ll recommend the best possible methods to meet your needs."
+    },
+    {
+        "image": "/images/person-4.png",
+        "name": "Ari Y.",
+        "level": "Beginner",
+        "video": "https://www.youtube.com/embed/vQkb7FP9MS4",
+        "intro": "Need help finding the right teacher for you? Tell us your learning preferences and I’ll recommend the best possible methods to meet your needs."
+    },
+    {
+        "image": "/images/person-1.png",
+        "name": "Logan D.",
+        "level": "Professional Tutor",
+        "video": "https://www.youtube.com/embed/tZ3ndrKQXN8",
+        "intro": "Need help finding the right teacher for you? Tell us your learning preferences and I’ll recommend the best possible methods to meet your needs.",
+        "availability": "27/10/2022 at 09:30"
+    },
+    {
+        "image": "/images/person-2.png",
+        "name": "Lisette A.",
+        "level": "Beginner",
+        "video": "https://www.youtube.com/embed/iIfbJz9ethQ",
+        "intro": "Need help finding the right teacher for you? Tell us your learning preferences and I’ll recommend the best possible methods to meet your needs."
+    },
+    {
+        "image": "/images/person-3.png",
+        "name": "Lisa K.",
+        "level": "Beginner",
+        "video": "https://www.youtube.com/embed/ZZzqBh9LOTs",
+        "intro": "Need help finding the right teacher for you? Tell us your learning preferences and I’ll recommend the best possible methods to meet your needs."
+    },
+    {
+        "image": "/images/person-4.png",
+        "name": "Ari Y.",
+        "level": "Beginner",
+        "video": "https://www.youtube.com/embed/vQkb7FP9MS4",
+        "intro": "Need help finding the right teacher for you? Tell us your learning preferences and I’ll recommend the best possible methods to meet your needs."
+    }
+]

@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('../assets/fonts/Ubuntu/light.ttf');
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('../assets/fonts/Ubuntu/regular.ttf');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('../assets/fonts/Ubuntu/medium.ttf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('../assets/fonts/Ubuntu/bold.ttf');
+  font-weight: 600;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 200;
+}
+
+button {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 400;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a, p, h1, h2, h3, h4, h5, h6, input {
+  letter-spacing: 1px;
+}
+
+a, p {
+  line-height: 150%;
+}
+
+ul, li {
+  list-style-type: none;
+}
+
+img {
+  object-fit: contain;
+}
